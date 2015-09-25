@@ -1,2 +1,3 @@
-# coding_dojo
+# Coding dojo
+
 Fun with languages
